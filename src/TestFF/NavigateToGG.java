@@ -9,7 +9,7 @@ public class NavigateToGG {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.gecko.driver","D:\\Selenium\\Drivers\\geckodriver-v0.19.1-win64\\geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
-		driver.get("http://google.com");
+		driver.get("http://google.com1");
 	}
 
 }
